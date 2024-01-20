@@ -21,7 +21,7 @@ export const Bio = {
     "My enduring fascination with the dynamic evolution of technology propelled me to embark on a career in computer science and engineering. I earned my BTech in Computer Science and Engineering, cultivating a deep understanding of the field. This educational journey inspired me to further expand my expertise, prompting me to pursue a Masters in Computer Science and Engineering with a specialization in Cloud Computing.    Throughout my academic and professional pursuits, I have honed a versatile skill set and gained proficiency in various programming languages, including Java and Python. Additionally, I have delved into the realm of web development, mastering technologies such as HTML, CSS, JavaScript, Bootstrap, jQuery, and PHP.This comprehensive knowledge base positions me to contribute effectively to the ever- evolving landscape of technology.",
   github: "https://github.com/vinayhr5",
   resume:
-    "https://drive.google.com/file/d/1vFM6nskPk0Rkz4LaOZ9KAqgXbo34qyWX/view?usp=drive_link",
+    "https://drive.google.com/file/d/1FQqSt_7f_6Mm82JyjyYhwMxf6JufSBlI/view?usp=drive_link",
   linkedin: "https://www.linkedin.com/in/vinayahari",
 };
 
@@ -144,7 +144,7 @@ export const experiences = [
     img: EclinicalWorksLogo,
     role: "Performance Support Engineer",
     company: "eClinicalWorks, Ahmedabad",
-    date: "June 2023 - July 2023",
+    date: "March 2021 - July 2021",
     desc: "As a Performance Support Engineer, I handled responsibilities such as troubleshooting issues for US clients via remote connection, identifying slowness and freezing problems in SAAS applications, resolving network issues using network tools, analyzing JSPs and HTTPS traffic with Fiddler, utilizing New Relic for JVM out-of-memory and transaction analysis, examining Java Thread dumps, and analyzing Tomcat logs for slower JSPs, exceptions, errors, and out-of-memory issues, as well as scrutinizing SQL queries impacting application performance.",
     skills: [
       "JSP",
